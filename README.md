@@ -1,1 +1,1 @@
-# HlafihoUzasnaPoutRobotikou
+# HlafihoUzasnaPoutRobotikou je opravdu úžasná.
