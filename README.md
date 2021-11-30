@@ -1,2 +1,4 @@
-# Projekt mezi:
-mrlool (Filip Galečka) a Ntaly (Matěj Hlávka)
+# Na projektu pracují:
+mrlool (Filip Galečka)
+Ntaly (Matěj Hlávka)
+????? (David Petr Čermák)
