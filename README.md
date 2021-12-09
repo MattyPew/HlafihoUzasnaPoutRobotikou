@@ -1,4 +1,4 @@
 ### Na projektu pracují:
-- mrlool (Filip Galečka)
-- MattyPew_, Ntaly, NetysGamesCZ (Matěj Hlávka)
-- Blbouni3 (David Petr Čermák)
+- mrlool (Filip Galečka) - Konstruktér, Mechanik
+- MattyPew_, Ntaly, NetysGamesCZ (Matěj Hlávka) - Programátor
+- Blbouni3 (David Petr Čermák) - Konstruktér, Mechanik
